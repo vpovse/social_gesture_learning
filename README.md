@@ -37,9 +37,7 @@ The clips cover 27 different classes of human hand gestures, split in the ratio 
 To clean and filter GESRes dataset, use _filter_jester_dataset.ipynb_
 
 Labels in _GESRes_filtered_gestures_ directory: 
-- Doing other things
 - Drumming Fingers
-- No gesture
 - Pulling Hand In
 - Pulling Two Fingers In
 - Pushing Hand Away
