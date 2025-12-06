@@ -5,4 +5,6 @@ GESRes_dataset/
 20bn-jester-v1/
 Jester_filtered_gestures/
 GESRes_filtered_gestures/
-
+*.py
+*.joblib
+__pycache__/
